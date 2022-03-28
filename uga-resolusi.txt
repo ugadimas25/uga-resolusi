@@ -1,1 +1,2 @@
 Bisa kenal secara dalam behavior git dan jira
+Paham konsep mYSQL 
